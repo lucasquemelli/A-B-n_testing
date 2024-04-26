@@ -1,6 +1,6 @@
 # A/B/n Testing
 
-<code><img width="100%" src="https://github.com/lucasquemelli/a-b_testing/blob/main/cover%20image/ab_testing.png"></code>
+<code><img width="100%" src="https://github.com/lucasquemelli/A-B-n_testing/blob/main/cover%20image/abn_testing.jpeg"></code>
 
 # 1. Business Problem
 
