@@ -15,3 +15,13 @@ During the period from April 3, 2013, to April 10, 2013, the library's homepage 
 One of the hypotheses proposed by the IT team was that the name "Interact" might confuse students as it does not clearly indicate the purpose of that category. Thus, four new names were proposed to replace the current category name: "Connect," "Learn," "Help," and "Service."
 
 With variations of the category name in mind, an A/B/n test needed to be defined to validate which variation made the category more understandable and attractive to students, with the expectation of increasing the click-through rate in this category. Therefore, an A/B/n test was conducted over three weeks, from May 29, 2013, to June 18, 2013. The experiment was designed to ensure that a user would access any of the variations with the same probability.
+
+**Purpose**
+
+---
+
+You have been hired as a freelancer by the University of Montana to assist the IT team in evaluating the data from variations of the library's homepage and determine if any of the variations are indeed better than the current one. In the case of an affirmative answer, which variation would be the best and should replace the current category name.
+
+The deliverables of your work are as follows:
+
+Is any of the conversions really better than the current one? What would be the name of the variation?
